@@ -1,0 +1,24 @@
+.Testimonials {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* align-items:center; */
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+
+.testimonial {
+  margin: 0 20px 20px 20px;
+  border: 1px solid rgba(100,98,131,.1);
+  border-radius: 5px;
+  box-shadow: 1px 2px 3px rgba(100,98,131,.3);
+  width: 40%;
+  flex-wrap: wrap;
+  word-wrap: wrap;
+}
+
+@media screen and (max-width: 625px) {
+  .testimonial {
+      width: 100%;
+  }
+}

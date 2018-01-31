@@ -1,0 +1,27 @@
+.Projects {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+
+.project {
+  margin: 0 20px 20px 20px;
+  border: 1px solid rgba(100,98,131,.1);
+  border-radius: 5px;
+  box-shadow: 1px 2px 3px rgba(100,98,131,.3);
+  width: 40%;
+  flex-wrap: wrap;
+  word-wrap: wrap;
+}
+
+.project-image {
+  width: 90%;
+}
+
+@media screen and (max-width: 625px) {
+  .project {
+      width: 100%;
+  }
+}

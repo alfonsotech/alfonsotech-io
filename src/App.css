@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+  color: rgb(100, 98, 131);
+  /* outline: 1px dotted red; */
+}
+.Footer {
+  margin-top: 50px;
+}
+h1, h2 {
+  font-family: "Raleway";
+}
+h2 {
+  margin-top: 120px;
+}
