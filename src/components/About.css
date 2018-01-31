@@ -40,6 +40,10 @@
   word-wrap: wrap;
 }
 
+.about>div>div {
+    padding-bottom: 0 !important;
+}
+
 .about>div>div>div {
   padding-right: 0 !important;
 }

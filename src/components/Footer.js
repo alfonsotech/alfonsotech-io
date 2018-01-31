@@ -22,7 +22,7 @@ class Footer extends Component {
               <SocialButtons />
             </BottomNavigation>
           </Paper>
-          <h6>Copyright &copy; 2018 AlfonsoTech</h6>
+          <h6><small>Copyright &copy; 2018 AlfonsoTech</small></h6>
         </MuiThemeProvider>
       </div>
     )

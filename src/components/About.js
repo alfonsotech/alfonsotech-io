@@ -39,7 +39,7 @@ const About = () => {
                 <h4><strong>Hello, I'm Rita Alfonso.</strong></h4>
                 <p>I'm a former Philosophy professor turned web developer. I specialize in the <strong>MERN stack (MongoDB, Express, React, and Node)</strong>, and have worked with the following technologies:</p>
                 <TechStack />
-                <p>I also regularly mentor coding bootcamp students with <strong>Trilogy Education Services, Inc.</strong> (which partners with universities throughout the United States to offer web development bootcamps through their extensiton programs) and <strong>OpenClassrooms</strong>, Europe's premier, accredited online program. I love to share my knowledge with others!</p>
+                <p>I also regularly mentor coding bootcamp students with <strong><a href="https://www.linkedin.com/company/trilogy-education-services/?originalSubdomain=es" target="_blank" rel="noopener noreferrer">Trilogy Education Services, Inc.</a></strong> (which partners with universities throughout the United States to offer web development bootcamps through their extension programs) and <strong><a href="https://www.linkedin.com/school/openclassrooms/" target="_blank" rel="noopener noreferrer">OpenClassrooms</a></strong>, Europe's leading, accredited educational platform. I love to share my knowledge with others!</p>
               </CardText>
             </Card>
           </MuiThemeProvider>
