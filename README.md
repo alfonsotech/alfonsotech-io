@@ -1,12 +1,12 @@
-# Alfonso Tech Tutoring
+# Alfonso Tech
 
-Website to provide coding bootcamp students the ability to make extra-curricular and post-bootcamp appointments with me.
+Portfolio Page for Alfonso Tech.
 
 
 ## Built With
 
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
-
+* [material-ui](https://www.npmjs.com/package/material-ui)
 
 ## Author
 
