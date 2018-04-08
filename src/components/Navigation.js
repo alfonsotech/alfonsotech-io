@@ -9,7 +9,7 @@ const Navigtaion = () => {
       <Navbar.Header>
         <Navbar.Brand>
 
-          <a href="#home"><img className="logo" src='/favicon.ico' alt="AlfonsoTech-logo"/> ALFONSO TECH</a>
+          <a href="#home"><img className="logo" src='./favicon.ico' alt="AlfonsoTech-logo"/> ALFONSO TECH</a>
         </Navbar.Brand>
       </Navbar.Header>
       <Nav pullRight>
