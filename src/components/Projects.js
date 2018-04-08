@@ -5,6 +5,12 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import './Projects.css'
 
 const projects = [{
+    title: 'Public Philosophy Platform',
+    image: './assets/images/project-images/ppp.png',
+    description: 'Crowdsourced & ranked Philosophy topics, curated learning paths, and upcoming tribes.',
+    github: 'https://github.com/alfonsotech/bphil',
+    deploy:'https://bphil.herokuapp.com/'
+  },{
     title: 'Game of Life',
     image: './assets/images/project-images/game-of-life.png',
     description: 'The Game Of Life built with React.',
