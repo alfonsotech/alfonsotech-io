@@ -1,24 +1,20 @@
 import React from 'react';
-import { Navbar, Nav, NavItem } from 'react-bootstrap'
+import { Navbar, Nav } from 'react-bootstrap'
 import SocialButtons from './SocialButtons'
 import './Navigation.css'
 
 const Navigtaion = () => {
   return (
-    <Navbar className="Navbar" collapseOnSelect>
+    <Navbar collapseOnSelect>
       <Navbar.Header>
         <Navbar.Brand>
-          <h1>ALFONSO TECH</h1>
+
+          <a href="#home"><img className="logo" src='/favicon.ico' alt="AlfonsoTech-logo"/> ALFONSO TECH</a>
         </Navbar.Brand>
-        <Navbar.Toggle />
       </Navbar.Header>
-      <Navbar.Collapse>
-        <Nav pullRight>
-          <NavItem eventKey={1}>
-            <SocialButtons />
-          </NavItem>
-        </Nav>
-      </Navbar.Collapse>
+      <Nav pullRight>
+          <SocialButtons />
+      </Nav>
     </Navbar>
   )
 }

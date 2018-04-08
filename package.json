@@ -2,12 +2,12 @@
   "homepage": "https://alfonsotech.github.io/alfonsotech-io",
   "name": "alfonsotech",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gh-pages": "^1.1.0",
     "material-ui": "^0.20.0",
     "react": "^16.2.0",
-    "react-bootstrap": "^0.31.5",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
     "react-icons": "^2.2.7",
     "react-scripts": "1.0.17"

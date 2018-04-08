@@ -6,8 +6,8 @@ import EmailIcon from 'react-icons/lib/fa/paper-plane'
 
 const style = {
   padding: 5,
-  margin: 7,
-  fontSize: 40,
+  margin: 5,
+  fontSize: 30,
   border: "1px solid rgba(0,0,0,.2)",
   borderRadius: 50,
   color: '#646283'

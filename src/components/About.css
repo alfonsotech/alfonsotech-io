@@ -14,7 +14,7 @@
 }
 .logo-item {
     list-style: none;
-    padding: 5px;
+    padding: 20px;
 }
 .logo-image {
   width: 69px;
@@ -57,5 +57,8 @@
 @media screen and (max-width: 625px) {
   .about {
       width: 100%;
+  }
+  .logo-item {
+      padding: 5px;
   }
 }

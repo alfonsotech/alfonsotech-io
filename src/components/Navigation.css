@@ -2,7 +2,9 @@
   margin-bottom: 80px;
   background: #fff;
 }
-
+.logo {
+  width: 24px;
+}
 h1 {
   color: #646283 !important;
 }
