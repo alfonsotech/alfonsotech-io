@@ -8,8 +8,7 @@ const Navigtaion = () => {
     <Navbar collapseOnSelect>
       <Navbar.Header>
         <Navbar.Brand>
-
-          <a href="#home"><img className="logo" src='/favicon.ico' alt="AlfonsoTech-logo"/> ALFONSO TECH</a>
+          <h1>ALFONSO TECH</h1>
         </Navbar.Brand>
       </Navbar.Header>
       <Nav pullRight>
