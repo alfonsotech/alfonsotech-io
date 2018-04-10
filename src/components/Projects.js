@@ -11,12 +11,6 @@ const projects = [{
     github: 'https://github.com/alfonsotech/bphil',
     deploy:'https://bphil.herokuapp.com/'
   },{
-    title: 'Game of Life',
-    image: './assets/images/project-images/game-of-life.png',
-    description: 'The Game Of Life built with React.',
-    github: 'https://github.com/alfonsotech/game-of-life-fcc',
-    deploy:'https://alfonsotech.github.io/game-of-life-fcc/'
-  },{
     title: 'Continental Philosophy Tube',
     image: './assets/images/project-images/continental-phil-tube.png',
     description: 'Easily search for the latest Youtube videos on topics in Continental Philosophy.',
